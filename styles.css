@@ -56,5 +56,9 @@ input[type=submit]:hover {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 40%;
+    width: 44%;
+}
+
+.hide {
+  display: none;
 }
